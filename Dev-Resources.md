@@ -2,45 +2,40 @@
 
 ## API'S & NODE PROVIDERS
 ### Alchemy Node API
-Alchemy Node API - write data to the blockchain 
-https://dashboard.alchemy.com/products/node-api
-
-Using your API Key: https://solana-mainnet.g.alchemy.com/v2/<your-api-key>
+[Alchemy Node API - write data to the blockchain](https://dashboard.alchemy.com/products/node-api)
+```
+Using your API Key: https://solana-mainnet.g.alchemy.com/v2/<your-api-key>`
 Other URLS: https://solana-devnet.g.alchemy.com/v2/
+```
 
 ### PUMP PORTAL API
-API - Make solana Swaps, Create Tokens. 
-https://pumpportal.fun/trading-api/
+[API - Make solana Swaps, Create Tokens.](https://pumpportal.fun/trading-api/)
 
-Creating Tokens - pump.fun
-https://pumpportal.fun/creation/#jito-bundle-examples
+[Creating Tokens - pump.fun](https://pumpportal.fun/creation/#jito-bundle-examples)
 
-Batch Transactions - Trading
-https://pumpportal.fun/local-trading-api/jito-bundles/
+[Batch Transactions - Trading](https://pumpportal.fun/local-trading-api/jito-bundles/)
 
-Trading API
-https://pumpportal.fun/trading-api/setup/
+[Trading API](https://pumpportal.fun/trading-api/setup/)
 
-Local Trading API - Use your own wallet
-https://pumpportal.fun/local-trading-api/trading-api/
+[Local Trading API - Use your own wallet](https://pumpportal.fun/local-trading-api/trading-api/)
 
 Fee: 0.5%
-Source: https://www.reddit.com/r/solana/comments/1d1vmhp/anyone_know_a_good_pumpfun_api_for_creating_bots/
+
+[Source]:(https://www.reddit.com/r/solana/comments/1d1vmhp/anyone_know_a_good_pumpfun_api_for_creating_bots/)
 
 
 ### Orca API
-Orca API 
-https://api.orca.so/
-https://github.com/orca-so/typescript-sdk
-https://orcascan.com/guides?tag=api
-https://github.com/orca-so/orca-sdks
-https://orca-so.gitbook.io/orca-developer-portal/whirlpools/interacting-with-the-protocol/performing-swaps
+ 
+[Orca API](https://api.orca.so/)
+[Orca TS SDK](https://github.com/orca-so/typescript-sdk)
+[Orca API Guides](https://orcascan.com/guides?tag=api)
+[Orca SDKs](https://github.com/orca-so/orca-sdks)
+[Orca Docs - Swaps](https://orca-so.gitbook.io/orca-developer-portal/whirlpools/interacting-with-the-protocol/performing-swaps)
 
-Orca Pools 
-https://www.orca.so/pools
+[Orca Pools](https://www.orca.so/pools)
 
-https://orca-so.gitbook.io/orca-developer-portal/whirlpools/interacting-with-the-protocol/orca-whirlpools-parameters
-https://docs.orca.so/
+[Orca Whirlpools](https://orca-so.gitbook.io/orca-developer-portal/whirlpools/interacting-with-the-protocol/orca-whirlpools-parameters)
+[Orca Documentation](https://docs.orca.so/)
 
 ### PUMP.FUN API
 https://docs.api-pump.fun/reference/api-reference/bonding-curve
@@ -81,16 +76,13 @@ https://thegraph.com/
 
 
 ## NOTES - RESEARCH & DEVELOPMENT | On-Chain Analysis
-Example Token Address 
-`A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ`
-Name: Peng 
-Owner Program: `TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA`
-Pump Token: `CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump`
+- Example Token Address `A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ`
+- Name: Peng 
+- Owner Program: `TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA`
+- Pump Token: `CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump`
 
-Example Account Address 
-`FukudCCa2hKbQxFAU3ZuwY3fAiNaLpkTWTBepGdY9hhz`
-Owner: System Program 
-`11111111111111111111111111111111`
+- Example Account Address `FukudCCa2hKbQxFAU3ZuwY3fAiNaLpkTWTBepGdY9hhz`
+- Owner: System Program `11111111111111111111111111111111`
 
 
 ## Random 
